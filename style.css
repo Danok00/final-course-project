@@ -98,7 +98,15 @@ footer {
 }
 
 .footer_down {
-    background-color: rgb(9, 78, 9);
+    background-color: rgb(27, 35, 75);
+}
+
+.footer_down__item {
+    color: lightgray;
+}
+
+.footer_down__icon a {
+    color: lightgray;
 }
 
 .footer_up__block {
