@@ -316,8 +316,7 @@ footer {
     border: 2px solid black;
     margin-right: 18px;
     text-align: center;
-    transition:background-color 1s ease;
-    transition:color 1s ease;
+    transition: 1s ease;
 }
 
 .discoveries_block__buttons-get {
